@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+}
+
+.center {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.bullet {
+    list-style-type: none;
+}
+
+.anchor {
+    text-decoration: none;
+}
